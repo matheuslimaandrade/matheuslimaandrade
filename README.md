@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, i'm Matheus 😀
 
-<!--
-**matheuslimaandrade/matheuslimaandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a developer and content creator!
 
-Here are some ideas to get you started:
+- 🌱  Improving at .NET | C# | SQL DATABASES 
+- 👯  Creating valuable content
+- 🥅  2024.1 Plans: Improving my .NET knowledge 
+https://www.instagram.com/mtthla_/?next=%2F
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.youtube.com/channel/UCsop9Ne6TCIooj4T5H0Hkqg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/mtthla_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheuslima-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div align="center">
+<img width="450em" alt="Status Github Matheus" src="https://github-readme-stats.vercel.app/api?username=matheuslimaandrade&show_icons=true&theme=dracula" />
+<img width="380em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslimaandrade&layout=compact&theme=dracula"/>
+</div>
+
+![Snake animation](https://github.com/AdrianoBinhara/AdrianoBinhara/blob/output/github-contribution-grid-snake.svg)
