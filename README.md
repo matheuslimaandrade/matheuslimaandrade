@@ -5,7 +5,7 @@
 - 🌱  Improving at .NET | C# | SQL DATABASES 
 - 👯  Creating valuable content
 - 🥅  2024.1 Plans: Improving my .NET knowledge 
-https://www.instagram.com/mtthla_/?next=%2F
+
 ### Connect with me:
 
 <div>
