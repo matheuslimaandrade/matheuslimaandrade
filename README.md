@@ -1,4 +1,4 @@
-### Hi, i'm Matheus 😀
+### Hi, i'm Matheus
 
 ## I am a developer!
 
