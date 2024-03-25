@@ -1,9 +1,8 @@
 ### Hi, i'm Matheus 😀
 
-## I am a developer and content creator!
+## I am a developer!
 
 - 🌱  Improving at .NET | C# | SQL DATABASES 
-- 👯  Creating valuable content
 - 🥅  2024.1 Plans: Improving my .NET knowledge
 - [![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
 
