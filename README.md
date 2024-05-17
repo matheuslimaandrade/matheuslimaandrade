@@ -2,8 +2,8 @@
 
 ## I am a developer!
 
-- 🌱  Improving at .NET | C# | SQL DATABASES 
-- 🥅  2024.1 Plans: Improving my .NET knowledge
+- 🌱  Improving at DevOps
+- 🥅  2024.1 Plans: Improving Cloud Computing 
 - [![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
 
 ### Connect with me:
