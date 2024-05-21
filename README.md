@@ -1,8 +1,8 @@
 ### Hi, i'm Matheus
 
-## I am a developer!
+## I am a DevOps/Software Engineer!
 
-- 🌱  Improving at DevOps
+- 🌱  Improving at DevOps and Cloud Computing
 - 🥅  2024.1 Plans: Improving Cloud Computing 
 - [![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
 
